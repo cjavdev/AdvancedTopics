@@ -18,3 +18,7 @@ This is a repo for storing curriculum used during TA Lunch Lectures.
 * Strong Parameters
 * Turbolinks
 * Russian Doll Caching
+* SEO (lets talk about how to get our ad on every page like aa.io)
+* e-tags
+* CSS sprites
+
