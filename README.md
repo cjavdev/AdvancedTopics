@@ -3,10 +3,19 @@
 This is a repo for storing curriculum used during TA Lunch Lectures.
 
 ## Past Topics
+### Algorithms and Data Structures
+* Heaps
+* Djikstra
+* Tries
+* Hashes
+* Self Balancing (Red Black) Trees
 
+
+### Grab Bag
 * [Basic Networking][networking-i]
 * [iOS][ios]
     * **todo** write.
+* Caching
 
 [networking-i]: ./Networking/networking-i.md
 [ios]: ./iOS/ios-i.md
